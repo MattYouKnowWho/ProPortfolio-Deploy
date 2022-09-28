@@ -61,7 +61,7 @@ const RecipeReviewCard =({title, github, heroku, image, description}) => {
       <CardContent>
        
         <Typography variant="body2" color="text.secondary">
-          
+          Check it out buy clicking the icons below! 
         </Typography>
         
       </CardContent>
